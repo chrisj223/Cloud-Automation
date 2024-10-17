@@ -57,7 +57,7 @@ Now we will also create a Digital Ocean token, take we may enable it to connect 
 -	Choose generate token and ensure you save/copy the token, as it will get added to the script
 
 # Running Script & Configuring WordPress
-Upon the final step, this is where you will ultimately run the Ansible playbook and access the Droplet to configure WordPress. _(sample of my script located here)_
+Upon the final step, this is where you will ultimately run the Ansible playbook and access the Droplet to configure WordPress. _(sample of my script located [here]([url](https://github.com/chrisj223/Cloud-Automation/blob/9399b236c2dbc49330b009cdb7d0c27526e5e83a/Ansible-script)))_
  -	Once you created your script run it by running “ansible-playbook [name of script]" Once it completes you'll get a recap of the playbook indicating either success, failure, or changes.
 
 ![image](https://github.com/user-attachments/assets/6da6092e-ecf7-45dc-8f87-8c7e32dfd461)
