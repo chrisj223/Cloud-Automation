@@ -1,7 +1,7 @@
 # Cloud-Automation
 Provisioning of Two Digital Ocean Droplets as WordPress Website Platforms Using Ansible Automation Tool
 
-This project aims to automate the deployment of a WordPress site to the cloud provider Digital Ocean. We will utilize Ansible, a software tool that facilitates RESTful API calls, to streamline this process. The deployment will be executed on a virtual machine running CentOS 7. A script will be developed to direct Ansible in creating Droplets (virtual machines) that will operate as WordPress sites.
+This project, undertaken as part of my college coursework, aims to automate the deployment of a WordPress site to the cloud provider Digital Ocean. We will utilize Ansible, a software tool that facilitates RESTful API calls, to streamline this process. The deployment will be executed on a virtual machine running CentOS 7. A script will be developed to direct Ansible in creating Droplets (virtual machines) that will operate as WordPress sites.
 
 **Resources used**:
 - VMWare Fusion (for Mac)
